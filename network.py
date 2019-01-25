@@ -13,4 +13,3 @@ class Network:
 
 
 a = Network([2, 3, 4, 5])
-print (a.device_sweep())
